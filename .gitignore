@@ -1,3 +1,10 @@
+#Simulation derivates
+*.DBK
+*.PWI
+
+#Code derivates
+*.hex
+
 # Prerequisites
 *.d
 
